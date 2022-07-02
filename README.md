@@ -6,7 +6,7 @@ In mijn posts licht ik het één en ander toe aan de hand van voorbeeldcode welk
 
 Ga je je verdiepen in één van de onderwerpen waar ik over heb geschreven? Dan hoop ik dat ik je de nodige ondersteuning kan geven via mijn blog en de voorbeeldcode in de repositories bij deze GitHub.
 
-Sorry for those who do not speak Dutch but everything I have written so far is in Dutch. I noticed that Dutch language tutorials about C# and Blazor were hardly there and that’s why I started this project in 2020. I have not decided yet about writing in English but I am not unwilling to do so as more people can be reached in doing so.
+Sorry for those who do not speak Dutch but everything I have written so far is in Dutch. I noticed Dutch language tutorials about C# and Blazor were hardly there and that’s why I started this project in 2020. I have not decided yet about writing in English but I am not unwilling to do so as more people can be reached in doing so.
 
 Happy Reading and Coding! 👍
 
