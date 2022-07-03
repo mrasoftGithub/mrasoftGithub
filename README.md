@@ -25,7 +25,7 @@ Repository | Voorbeeldcode horend bij Blog artikel:
 [`Csharp-web-api-server-controller`](https://github.com/mrasoftGithub/Csharp-web-api-server-controller) | [`Minimal APIs`](https://www.mrasoft.nl/csharp-minimal-api/)
 [`Csharp-minimal-api`](https://github.com/mrasoftGithub/Csharp-minimal-api) | [`Minimal APIs`](https://www.mrasoft.nl/csharp-minimal-api/)
 [`CookieAuthentication`](https://github.com/mrasoftGithub/CookieAuthentication) | [`Cookie Authentication`](https://www.mrasoft.nl/cookie-authentication-in-blazor/)
-[`JWTWebToken`](https://github.com/mrasoftGithub/JWTWebToken) | [`JWT Authentictation`](https://www.mrasoft.nl/jwt-authentication-in-blazor/)
+[`JWTWebToken`](https://github.com/mrasoftGithub/JWTWebToken) | [`JWT Authentication`](https://www.mrasoft.nl/jwt-authentication-in-blazor/)
 [`BlazorWebAssemblyAppStateServices`](https://github.com/mrasoftGithub/BlazorWebAssemblyAppStateServices) | [`Application State Services in Blazor`](https://www.mrasoft.nl/blazor-applicationstate-services/)
 [`BlazorWebAssemblyHostedBootstrapApp`](https://github.com/mrasoftGithub/BlazorWebAssemblyHostedBootstrapApp) | [`Bootstrap en Blazor`](https://www.mrasoft.nl/blazor-bootstrap/) 
 [`Bootstrap-Dot-Net-Framework-Web-Application`](https://github.com/mrasoftGithub/Bootstrap-Dot-Net-Framework-Web-Application) | [`Bootstrap en Blazor`](https://www.mrasoft.nl/blazor-bootstrap/)
