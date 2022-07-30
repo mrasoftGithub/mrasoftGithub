@@ -29,5 +29,7 @@ Repository | Voorbeeldcode horend bij Blog artikel:
 [`Blazor-CRUD`](https://github.com/mrasoftGithub/Blazor-CRUD) | [`Blazor Hosted CRUD`](https://www.mrasoft.nl/blazor-crud)
 [`Blazor CRUD minimal API`](https://github.com/mrasoftGithub/Blazor-CRUD-minimalAPI) | [`Blazor CRUD Minimal API`](https://www.mrasoft.nl/blazor-crud-minimal-api/)
 [`Blazor CRUD WASM`](https://github.com/mrasoftGithub/Blazor-CRUD-WASM) | [`Blazor CRUD Minimal API`](https://www.mrasoft.nl/blazor-crud-minimal-api/)
+[`Blazor CRUD WASM MudBlazor`](https://github.com/mrasoftGithub/Blazor-CRUD-WASM-MudBlazor) | [`MudBlazor installatie`](https://www.mrasoft.nl/mudblazor-installatie) en [`MudBlazor DataGrid Component`](https://www.mrasoft.nl/mudblazor-datagrid-component)
+[`Blazor CRUD WASM Radzen`](https://github.com/mrasoftGithub/Blazor-CRUD-WASM-Radzen) | [`Radzen installatie`](https://www.mrasoft.nl/radzen-installatie ) en [`Radzen DataGrid Component`](https://www.mrasoft.nl/radzen-datagrid-component)
 [`CookieAuthentication`](https://github.com/mrasoftGithub/CookieAuthentication) | [`Cookie Authentication`](https://www.mrasoft.nl/cookie-authentication-in-blazor/)
 [`JWTWebToken`](https://github.com/mrasoftGithub/JWTWebToken) | [`JWT Authentication`](https://www.mrasoft.nl/jwt-authentication-in-blazor/)
