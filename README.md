@@ -12,7 +12,7 @@ Happy Reading and Coding! 👍
 
 [MRASoft](https://www.mrasoft.nl/about/)
 
-### Repositories
+### Repositories - C# en Blazor, diverse onderwerpen
 
 Repository | Voorbeeldcode horend bij Blog artikel:
 :--- | :---
@@ -21,15 +21,25 @@ Repository | Voorbeeldcode horend bij Blog artikel:
 [`BlazorWebAssemblyHostedBootstrapApp`](https://github.com/mrasoftGithub/BlazorWebAssemblyHostedBootstrapApp) | [`Bootstrap en Blazor`](https://www.mrasoft.nl/blazor-bootstrap/) 
 [`Bootstrap-Dot-Net-Framework-Web-Application`](https://github.com/mrasoftGithub/Bootstrap-Dot-Net-Framework-Web-Application) | [`Bootstrap en Blazor`](https://www.mrasoft.nl/blazor-bootstrap/)
 [`BlazorWebAssemblyAppStateServices`](https://github.com/mrasoftGithub/BlazorWebAssemblyAppStateServices) | [`Application State Services in Blazor`](https://www.mrasoft.nl/blazor-applicationstate-services/)
-[`BlazorWebAPIServerControllers`](https://github.com/mrasoftGithub/BlazorWebAPIServerControllers) | [`Web API Server Controllers`](https://www.mrasoft.nl/blazor-web-api-server-controllers/) 
-[`Csharp-web-api-server-controller`](https://github.com/mrasoftGithub/Csharp-web-api-server-controller) | [`Minimal APIs`](https://www.mrasoft.nl/csharp-minimal-api/)
-[`Csharp-minimal-api`](https://github.com/mrasoftGithub/Csharp-minimal-api) | [`Minimal APIs`](https://www.mrasoft.nl/csharp-minimal-api/)
+[`CookieAuthentication`](https://github.com/mrasoftGithub/CookieAuthentication) | [`Cookie Authentication`](https://www.mrasoft.nl/cookie-authentication-in-blazor/)
+[`JWTWebToken`](https://github.com/mrasoftGithub/JWTWebToken) | [`JWT Authentication`](https://www.mrasoft.nl/jwt-authentication-in-blazor/)
+
+### Repositories - Blazor, hosted applications
+
+Repository | Voorbeeldcode horend bij Blog artikel:
+:--- | :---
 [`BlazorWebAssemblyHostedApp`](https://github.com/mrasoftGithub/BlazorWebAssemblyHostedApp) | [`Blazor Hosted App`](https://www.mrasoft.nl/blazor-webassembly-app/) en [`de EditForm en Blazor`](https://www.mrasoft.nl/blazor-editform/) 
 [`BlazorWebAssemblyMVVM`](https://github.com/mrasoftGithub/BlazorWebAssemblyMVVM) | [`Blazor Hosted MVVM App`](https://www.mrasoft.nl/blazor-webassembly-MVVM/)  en [Binding in Blazor](https://www.mrasoft.nl/blazor-binding/)
 [`Blazor-CRUD`](https://github.com/mrasoftGithub/Blazor-CRUD) | [`Blazor Hosted CRUD`](https://www.mrasoft.nl/blazor-crud)
+
+### Repositories - Web API, Minimal API
+
+Repository | Voorbeeldcode horend bij Blog artikel:
+:--- | :---
+[`BlazorWebAPIServerControllers`](https://github.com/mrasoftGithub/BlazorWebAPIServerControllers) | [`Web API Server Controllers`](https://www.mrasoft.nl/blazor-web-api-server-controllers/)
+[`Csharp-web-api-server-controller`](https://github.com/mrasoftGithub/Csharp-web-api-server-controller) | [`Minimal APIs`](https://www.mrasoft.nl/csharp-minimal-api/)
+[`Csharp-minimal-api`](https://github.com/mrasoftGithub/Csharp-minimal-api) | [`Minimal APIs`](https://www.mrasoft.nl/csharp-minimal-api/)
 [`Blazor CRUD minimal API`](https://github.com/mrasoftGithub/Blazor-CRUD-minimalAPI) | [`Blazor CRUD Minimal API`](https://www.mrasoft.nl/blazor-crud-minimal-api/)
 [`Blazor CRUD WASM`](https://github.com/mrasoftGithub/Blazor-CRUD-WASM) | [`Blazor CRUD Minimal API`](https://www.mrasoft.nl/blazor-crud-minimal-api/)
 [`Blazor CRUD WASM MudBlazor`](https://github.com/mrasoftGithub/Blazor-CRUD-WASM-MudBlazor) | [`MudBlazor installatie`](https://www.mrasoft.nl/mudblazor-installatie) en [`MudBlazor DataGrid Component`](https://www.mrasoft.nl/mudblazor-datagrid-component)
 [`Blazor CRUD WASM Radzen`](https://github.com/mrasoftGithub/Blazor-CRUD-WASM-Radzen) | [`Radzen installatie`](https://www.mrasoft.nl/radzen-installatie ) en [`Radzen DataGrid Component`](https://www.mrasoft.nl/radzen-datagrid-component)
-[`CookieAuthentication`](https://github.com/mrasoftGithub/CookieAuthentication) | [`Cookie Authentication`](https://www.mrasoft.nl/cookie-authentication-in-blazor/)
-[`JWTWebToken`](https://github.com/mrasoftGithub/JWTWebToken) | [`JWT Authentication`](https://www.mrasoft.nl/jwt-authentication-in-blazor/)
