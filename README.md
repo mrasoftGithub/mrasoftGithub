@@ -16,6 +16,7 @@ Happy Reading and Coding! 👍
 
 Repository | Voorbeeldcode horend bij Blog artikel:
 :--- | :---
+[`CEFSimplifiedVS17`](https://github.com/mrasoftGithub/CEFSimplifiedVS17)|`Geen Blog, is een Visual Studio 2017 C# Windows Forms App (.NET Framework) project om in Visual Studio 2017 ClickOnce te testen.`
 [`CSharp9`](https://github.com/mrasoftGithub/CSharp9) | [`C# 9`](https://www.mrasoft.nl/csharp-9/)
 [`CSharp10`](https://github.com/mrasoftGithub/CSharp10) | [`C# 10`](https://www.mrasoft.nl/csharp-10/)
 [`BlazorWebAssemblyHostedBootstrapApp`](https://github.com/mrasoftGithub/BlazorWebAssemblyHostedBootstrapApp) | [`Bootstrap en Blazor`](https://www.mrasoft.nl/blazor-bootstrap/) 
