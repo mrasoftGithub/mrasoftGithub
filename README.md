@@ -1,5 +1,5 @@
-### Hallo Allemaal 👋
- 
+<img src="MRAsoft%20logo.jpg?raw=false" height="30%" width="30%" >
+
 De repositories bij deze GitHub horen bij https://www.mrasoft.nl. Op https://www.mrasoft.nl staan een aantal, door mij geschreven (Nederlandstalige) blog artikelen. De posts hebben raakvlakken met zaken waar ik vanuit mijn werk als software developer regelmatig mee te maken heb.
 
 In mijn posts licht ik het één en ander toe aan de hand van voorbeeldcode welke je terug kan vinden in de repositories bij deze GitHub. Lees eens mijn blog over [C#](https://www.mrasoft.nl/csharp/) en [Blazor](https://www.mrasoft.nl/blazor/).
