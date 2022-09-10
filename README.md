@@ -1,6 +1,6 @@
 <img src="MRAsoft%20logo.jpg?raw=false" height="30%" width="30%" >
 
-Sorry for those who do not speak Dutch but everything I have written so far is in Dutch. I noticed Dutch language tutorials about C# and Blazor were hardly there and that’s why I started this project in 2020. I have not decided yet about writing in English but I am not unwilling to do so as more people can be reached in doing so.
+Sorry for those who do not speak Dutch but everything I have written so far is in the Dutch language. I noticed Dutch language tutorials about C# and Blazor were hardly there and that’s why I started this project in 2020. I have not decided yet about writing in English but I am not unwilling to do so as more people can be reached in doing so.
 
 De repositories bij deze GitHub horen bij https://www.mrasoft.nl. Op https://www.mrasoft.nl staan een aantal, door mij geschreven (Nederlandstalige) blog artikelen. De posts hebben raakvlakken met zaken waar ik vanuit mijn werk als software developer regelmatig mee te maken heb. 
 
