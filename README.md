@@ -42,4 +42,4 @@ Blog artikel:|Repository:
 [`Blazor CRUD Minimal API`](https://www.mrasoft.nl/blazor-crud-minimal-api/)|[`Blazor CRUD WASM`](https://github.com/mrasoftGithub/Blazor-CRUD-WASM)
 [`MudBlazor installatie`](https://www.mrasoft.nl/mudblazor-installatie) en [`MudBlazor DataGrid Component`](https://www.mrasoft.nl/mudblazor-datagrid-component)|[`Blazor CRUD WASM MudBlazor`](https://github.com/mrasoftGithub/Blazor-CRUD-WASM-MudBlazor) 
 [`Radzen installatie`](https://www.mrasoft.nl/radzen-installatie ) en [`Radzen DataGrid Component`](https://www.mrasoft.nl/radzen-datagrid-component)|[`Blazor CRUD WASM Radzen`](https://github.com/mrasoftGithub/Blazor-CRUD-WASM-Radzen) 
-[`QuickGrid DataGrid Component`](https://www.mrasoft.nl/quickgrid-datagrid-component)|[`Blazor CRUD WASM QuickGrid`](https://github.com/mrasoftGithub/Blazor-CRUD-WASM-QuickGrid) 
+[`QuickGrid DataGrid Component`](https://www.mrasoft.nl/quickgrid-datagrid-component)|[`Blazor WASM QuickGrid`](https://github.com/mrasoftGithub/Blazor-WASM-QuickGrid) 
