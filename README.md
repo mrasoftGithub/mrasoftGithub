@@ -16,6 +16,7 @@ Blog artikel:|Repository:
 :--- | :---
 [`C# 9`](https://www.mrasoft.nl/csharp-9/)|[`CSharp9`](https://github.com/mrasoftGithub/CSharp9) 
 [`C# 10`](https://www.mrasoft.nl/csharp-10/)|[`CSharp10`](https://github.com/mrasoftGithub/CSharp10)
+[`C# 11`](https://www.mrasoft.nl/csharp-11/)|[`CSharp11`](https://github.com/mrasoftGithub/csharp-11)
 [`Bootstrap en Blazor`](https://www.mrasoft.nl/blazor-bootstrap/)|[`BlazorWebAssemblyHostedBootstrapApp`](https://github.com/mrasoftGithub/BlazorWebAssemblyHostedBootstrapApp) 
 [`Bootstrap en Blazor`](https://www.mrasoft.nl/blazor-bootstrap/)|[`Bootstrap-Dot-Net-Framework-Web-Application`](https://github.com/mrasoftGithub/Bootstrap-Dot-Net-Framework-Web-Application) 
 [`Application State Services in Blazor`](https://www.mrasoft.nl/blazor-applicationstate-services/)|[`BlazorWebAssemblyAppStateServices`](https://github.com/mrasoftGithub/BlazorWebAssemblyAppStateServices) 
