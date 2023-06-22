@@ -23,6 +23,7 @@ Blog artikel:|Repository:
 [`Cookie Authentication`](https://www.mrasoft.nl/cookie-authentication-in-blazor/)|[`CookieAuthentication`](https://github.com/mrasoftGithub/CookieAuthentication) 
 [`JWT Authentication`](https://www.mrasoft.nl/jwt-authentication-in-blazor/)|[`JWTWebToken`](https://github.com/mrasoftGithub/JWTWebToken)
 `Geen Blog, is ter test van VS 2017 ClickOnce`|[`CEFSimplifiedVS17`](https://github.com/mrasoftGithub/CEFSimplifiedVS17)
+[`Git en GitHub`](https://www.mrasoft.nl/git-github/)|[`GitMRA`](https://github.com/mrasoftGithub/GitMRA)
 
 ## Repositories - Blazor, hosted applications
 
