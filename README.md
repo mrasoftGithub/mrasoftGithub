@@ -29,7 +29,7 @@ Blog artikel:|Repository:
 
 Blog artikel:|Repository: 
 :--- | :---
-[`Blazor Render modes`](https://www.mrasoft.nl/blazor-render-modes/)|[`Blazor-Render-modes`](https://github.com/mrasoftGithub/Blazor-Render-modes) 
+[`Blazor Render modes`](https://www.mrasoft.nl/blazor-render-modes/) en [`Blazor Prerendering`]([https://www.mrasoft.nl/blazor-render-modes/](https://www.mrasoft.nl/blazor-prerender-modes/)) |[`Blazor-Render-modes`](https://github.com/mrasoftGithub/Blazor-Render-modes) 
 [`Blazor Hosted App`](https://www.mrasoft.nl/blazor-webassembly-app/) en [`de EditForm en Blazor`](https://www.mrasoft.nl/blazor-editform/)|[`BlazorWebAssemblyHostedApp`](https://github.com/mrasoftGithub/BlazorWebAssemblyHostedApp)
 [`Blazor Hosted MVVM App`](https://www.mrasoft.nl/blazor-webassembly-MVVM/)  en [Binding in Blazor](https://www.mrasoft.nl/blazor-binding/)| [`BlazorWebAssemblyMVVM`](https://github.com/mrasoftGithub/BlazorWebAssemblyMVVM) 
 [`Blazor Hosted CRUD`](https://www.mrasoft.nl/blazor-crud)|[`Blazor-CRUD`](https://github.com/mrasoftGithub/Blazor-CRUD) 
