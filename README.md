@@ -25,6 +25,7 @@ Blog artikel:|Repository:
 [`JWT Authentication`](https://www.mrasoft.nl/jwt-authentication-in-blazor/)|[`JWTWebToken`](https://github.com/mrasoftGithub/JWTWebToken)
 `Geen Blog, is ter test van VS 2017 ClickOnce`|[`CEFSimplifiedVS17`](https://github.com/mrasoftGithub/CEFSimplifiedVS17)
 [`Git en GitHub(1)`](https://www.mrasoft.nl/git-github/), [`Git en GitHub(2)`](https://www.mrasoft.nl/git-en-github2/), [`Merge Conflicts`](https://www.mrasoft.nl/git-en-github-merge_conflict/), [`terughalen vorige versie(1)`](https://www.mrasoft.nl/git-revert-en-github/), [`terughalen vorige versie(2)`](https://www.mrasoft.nl/git-restore-reset/), [`SourceTree`](https://www.mrasoft.nl/sourcetree/)  |[`GitMRA`](https://github.com/mrasoftGithub/GitMRA)
+[`OAS (Open API Specification)`](https://www.mrasoft.nl/oas)|[`OAS`](https://github.com/mrasoftGithub/oas)
 
 ## Repositories - Blazor, hosted applications
 
